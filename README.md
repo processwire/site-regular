@@ -58,5 +58,20 @@ multiple template files.
 You'll see this library included with the site profile, even though 
 it doesn't itself need to use all of the functions that are included. 
 
+## To install
+
+Depending on your version of ProcessWire, you may already have this site profile
+included with the core, in which case you do not need to download it. If you find
+that you do not already have it, follow the instructions below: 
+
+- To use this site profile, you must first have a copy of ProcessWire that has 
+  not yet gone through the installation process. 
+
+- Copy the files from this repository into a `/site-regular/` directory in your
+  web root (or wherever ProcessWire’s `install.php` file is located). 
+
+- Open the URL where you've copied ProcessWire's files to in your web browser. 
+  The installer should start, and when it asks you what site profile you want to
+  install, you should see this profile there. Select it and continue installation.
 
 
